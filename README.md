@@ -46,20 +46,7 @@ Para executar o projeto completo, você precisará:
 2. **Para o Backend:**
    - JDK 17 ou superior
    - MySQL 8
-   - Maven
 
-## Estrutura do Projeto
-
-```
-Fullstack-Crud-App-1/
-├── frontend/          # Aplicação Angular
-│   ├── src/          # Código fonte do frontend
-│   └── README.md     # Documentação do frontend
-├── backend/          # API Spring Boot
-│   ├── src/         # Código fonte do backend
-│   └── README.md    # Documentação do backend
-└── README.md        # Esta documentação
-```
 ## Suporte
 
 Para suporte ou dúvidas:
