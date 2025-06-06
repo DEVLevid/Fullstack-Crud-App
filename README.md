@@ -12,13 +12,13 @@ O projeto é uma aplicação CRUD (Create, Read, Update, Delete) completa para g
    - Interface moderna usando ng-zorro-antd
    - Aplicação responsiva e interativa
    - Gerenciamento de estado com RxJS
-   - [Ver documentação detalhada do Frontend](./frontend/README.md)
+   - [Ver documentação detalhada do Frontend](https://github.com/DEVLevid/frontend-products/blob/c1c6309d7ecf68c27b9563ccc54dbf9707bdae5e/README.md)
 
 2. **Backend (Spring Boot)**
    - API REST completa
    - Persistência de dados com MySQL
    - Arquitetura em camadas
-   - [Ver documentação detalhada do Backend](./backend/README.md)
+   - [Ver documentação detalhada do Backend](https://github.com/DEVLevid/productsApi/blob/ab0d794e1fafe8cfa4270a96928311d0a52aa525/README.md)
 
 ## Tecnologias Principais
 
