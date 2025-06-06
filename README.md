@@ -33,7 +33,6 @@ O projeto é uma aplicação CRUD (Create, Read, Update, Delete) completa para g
 - Spring Boot
 - Spring Data JPA
 - MySQL 8
-- Maven
 
 ## Pré-requisitos
 
