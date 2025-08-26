@@ -1,3 +1,4 @@
+
 # Fullstack CRUD Application
 
 Este é um projeto fullstack completo para gerenciamento de produtos, consistindo em uma aplicação frontend em Angular e uma API backend em Spring Boot.
